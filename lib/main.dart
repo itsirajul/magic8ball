@@ -6,8 +6,9 @@ void main(){
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('8 Ring',style: TextStyle(color: Colors.greenAccent,),
+          title: const Text('8 Ring'),
           backgroundColor: Colors.redAccent,
+          style: TextStyle(color: Colors.greenAccent,),
         ),
       )
     ),
