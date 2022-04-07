@@ -8,7 +8,6 @@ void main(){
         appBar: AppBar(
           title: const Text('8 Ring'),
           backgroundColor: Colors.redAccent,
-          style: TextStyle(color: Colors.greenAccent,),
         ),
       )
     ),
