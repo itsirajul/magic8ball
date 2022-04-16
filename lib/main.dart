@@ -7,7 +7,7 @@ void main(){
       home: Scaffold(
         appBar: AppBar(
           title: const Text('8 Ring'),
-          backgroundColor: Colors.orangeAccent
+          backgroundColor: Colors.blueAccent
         ),
       )
     ),
